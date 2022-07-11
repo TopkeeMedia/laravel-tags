@@ -1,9 +1,9 @@
 {
-    "name": "spatie/laravel-tags",
+    "name": "topkee/tags",
     "description": "Add tags and taggable behaviour to your Laravel app",
     "keywords": [
         "spatie",
-        "laravel-tags"
+        "tags"
     ],
     "homepage": "https://github.com/spatie/laravel-tags",
     "license": "MIT",
@@ -17,10 +17,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "laravel/framework": "^8.12",
-        "spatie/eloquent-sortable": "^3.10|^4.0",
-        "spatie/laravel-package-tools": "^1.4",
-        "spatie/laravel-translatable": "^4.6|^5.0"
+        "laravel/framework": "^8.12"
     },
     "require-dev": {
         "orchestra/testbench": "^6.13",
@@ -28,13 +25,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Spatie\\Tags\\": "src"
+            "Topkee\\Tags\\": "src"
         }
     },
 
     "autoload-dev": {
         "psr-4": {
-            "Spatie\\Tags\\Test\\": "tests"
+            "Topkee\\Tags\\Test\\": "tests"
         }
     },
     "scripts": {
@@ -46,7 +43,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Spatie\\Tags\\TagsServiceProvider"
+                "Topkee\\Tags\\TagsServiceProvider"
             ]
         }
     },

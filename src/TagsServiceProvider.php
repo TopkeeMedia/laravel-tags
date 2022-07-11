@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Tags;
+namespace Topkee\Tags;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;

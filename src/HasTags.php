@@ -1,6 +1,6 @@
 <?php
 
-namespace Spatie\Tags;
+namespace Topkee\Tags;
 
 use ArrayAccess;
 use Illuminate\Database\Eloquent\Builder;

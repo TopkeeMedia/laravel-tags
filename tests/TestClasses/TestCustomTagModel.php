@@ -1,8 +1,8 @@
 <?php
 
-namespace Spatie\Tags\Test\TestClasses;
+namespace Topkee\Tags\Test\TestClasses;
 
-use Spatie\Tags\Tag;
+use Topkee\Tags\Tag;
 
 class TestCustomTagModel extends Tag
 {

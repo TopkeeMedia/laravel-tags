@@ -1,9 +1,9 @@
 <?php
 
-namespace Spatie\Tags\Test\TestClasses;
+namespace Topkee\Tags\Test\TestClasses;
 
 use Illuminate\Database\Eloquent\Model;
-use Spatie\Tags\HasTags;
+use Topkee\Tags\HasTags;
 
 class TestAnotherModel extends Model
 {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Spatie\Translatable\Test;
+namespace Topkee\Translatable\Test;
 
-use Spatie\Tags\Tag;
-use Spatie\Tags\Test\TestCase;
+use Topkee\Tags\Tag;
+use Topkee\Tags\Test\TestCase;
 
 class TagTest extends TestCase
 {

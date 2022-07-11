@@ -1,12 +1,12 @@
 <?php
 
-namespace Spatie\Tags\Test;
+namespace Topkee\Tags\Test;
 
 use CreateTagTables;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Spatie\Tags\TagsServiceProvider;
+use Topkee\Tags\TagsServiceProvider;
 
 abstract class TestCase extends Orchestra
 {

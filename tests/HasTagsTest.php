@@ -1,12 +1,12 @@
 <?php
 
-namespace Spatie\Translatable\Test;
+namespace Topkee\Translatable\Test;
 
 use Illuminate\Database\Eloquent\Relations\MorphToMany;
-use Spatie\Tags\Tag;
-use Spatie\Tags\Test\TestCase;
-use Spatie\Tags\Test\TestClasses\TestAnotherModel;
-use Spatie\Tags\Test\TestClasses\TestModel;
+use Topkee\Tags\Tag;
+use Topkee\Tags\Test\TestCase;
+use Topkee\Tags\Test\TestClasses\TestAnotherModel;
+use Topkee\Tags\Test\TestClasses\TestModel;
 
 class HasTagsTest extends TestCase
 {
