@@ -1,5 +1,6 @@
 ## Important Note:
-laravel标签插件，源链接https://github.com/Reex11/laravel-tags/tree/disable-translations-v4
+laravel标签插件，主要是用于做服务实例的二次隔离
+源链接https://github.com/Reex11/laravel-tags/tree/disable-translations-v4
 
 This is a fork from [Spatie/laravel-tags](https://github.com/spatie/laravel-tags) to remove the translations as many other would need this.
 
